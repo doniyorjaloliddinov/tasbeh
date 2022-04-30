@@ -10,9 +10,9 @@ body {
 }
 
 .count {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 179, 182);
     font-weight: bold;
-    font-size: 28px;
+    font-size: 36px;
 }
 
 .all-btn {
@@ -25,15 +25,15 @@ body {
 }
 
 .click-btn {
-    background-color: rgb(250, 254, 1);
-    color: rgb(0, 255, 255);
+    background-color: rgb(1, 5, 254);
+    color: rgb(255, 255, 255);
 }
 
 .clear-btn {
-    background-color: rgb(14, 254, 1);
+    background-color: rgb(254, 1, 1);
 }
 
 .ready-answer {
     color: rgb(13, 0, 255);
-    font-size: 28px;
+    font-size: 32px;
 }
